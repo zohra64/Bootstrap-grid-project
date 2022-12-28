@@ -1,0 +1,76 @@
+
+h4 {
+    padding-top: 20px;
+}
+.my-row{
+    /*
+    height: 100vh;
+      width: 100wh;*/
+   
+}
+.my-col {
+    border: 1px solid red;
+   
+    
+}
+.column-3 {
+    position: relative;
+}
+.input-group{
+    display: inline;
+}
+.img-fluid {
+ border-radius: 50%;
+}
+.pro-name {
+    margin-left: 50px;
+    font-weight: bold;
+}
+hr {
+    color: black;
+    background-color: black;
+    height: 3px;
+}
+.list-group list {
+  padding: 20px 10px;
+}
+.Button {
+    margin: 20px 50px;
+    width: 50%;
+}
+/*second part*/
+.container {
+   border: 1px solid green;
+}
+/*third part*/
+.col-3-heading {
+    background-color: rgb(65, 132, 165);
+    display: flex;
+    justify-content: flex-end;
+}
+.btn btn-light {
+ 
+}
+.sec-image {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+#coursera-img{
+    width: 20%;
+   
+}
+.content {
+    background-color: black;
+    color: white;
+}
+h2 {
+    font-size: 25px;
+}
+.content-img {
+    border-radius: 0%;
+    width: 60%;
+    height: 30%;
+   
+
+}
