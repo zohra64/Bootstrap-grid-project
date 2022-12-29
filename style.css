@@ -56,10 +56,27 @@ hr {
     display: flex;
     align-items: center;
 }
-#coursera-img{
-    width: 20%;
-   
+.flex-container {
+    display: flex;
 }
+.coursera-img {
+    padding-top: 10px;
+    width: 100px;
+    margin-left: 15px;
+    flex: 1;   
+
+}
+
+
+.email-from-to  {
+margin-right: 40%;
+flex: 1;
+padding-top: 40px;
+padding-bottom: 10px;
+font-weight: bold;
+}
+    
+
 .content {
     background-color: black;
     color: white;
@@ -69,8 +86,20 @@ h2 {
 }
 .content-img {
     border-radius: 0%;
-    width: 60%;
+    width: 63%;
     height: 30%;
-   
-
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 75px;
+    
+}
+section {
+    justify-content: center;
+    margin-left: 75px;
+}
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    border: ipx solid rgb(28, 143, 135);
+    margin-bottom: 8%;
 }
